@@ -22,12 +22,6 @@ __Notebook 3__ : Facial Keypoint Detection Using Haar Cascades and your Trained 
 
 __Notebook 4__ : Fun Filters and Keypoint Uses
 
-
-
-### Data
-
-All of the data you'll need to train a neural network is in the P1_Facial_Keypoints repo, in the subdirectory `data`. In this folder are training and tests set of image/keypoint data, and their respective csv files. This will be further explored in Notebook 1: Loading and Visualizing Data, and you're encouraged to look trough these folders on your own, too.
-
 ### Results from the project
 
 <p align="center">
