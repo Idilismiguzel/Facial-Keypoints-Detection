@@ -12,7 +12,7 @@ This project combines the knowledge of computer vision techniques and deep learn
 
 ![Facial Keypoint Detection][image2]
 
-The project will be broken up into a few main parts in four Python notebooks
+The project is broken up into a few main parts in four Python notebooks
 
 __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
 
