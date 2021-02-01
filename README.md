@@ -36,5 +36,3 @@ All of the data you'll need to train a neural network is in the P1_Facial_Keypoi
 <p align="center">
   <img src="./images/cat.JPG"/>  <img src="./images/cat2.JPG"/>
 </p>
-
-LICENSE: This project is licensed under the terms of the MIT license.
